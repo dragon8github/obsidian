@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "cff771f8a9cd00f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff11997dbd61e6e6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "书籍/高效学习法/复盘.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0723fd5a7dd38379",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a605213869a730d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db64fa25257ad06a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "424368b56fdabb08",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "SOP",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 308
+  },
+  "right": {
+    "id": "f5c84d15ff6facc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "563ab771bee4eb3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1683a0a6f0574e43",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "书籍/高效学习法/复盘.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "ff11997dbd61e6e6",
+  "lastOpenFiles": [
+    "书籍/高效学习法/复盘.md",
+    "书籍/穿透式学习/实用工具05：将所学变成操作标准.md",
+    "书籍/穿透式学习/安迪·格鲁夫的学习方法.md",
+    "书籍/穿透式学习/实用工具02：用知识与实干对撞——点、线、面.md",
+    "书籍/穿透式学习/提问模板.md",
+    "书籍/穿透式学习/微型学习：一次次学习小循环.md",
+    "书籍/穿透式学习/实用工具01我是在假装学习吗.md",
+    "书籍/穿透式学习/英雄之旅与学习之旅.md",
+    "书籍/好心情练习手册/阿德勒“目的论”.md",
+    "书籍/好心情练习手册/用“没耐心”打败坏情绪.md"
+  ]
+}
