@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ff11997dbd61e6e6",
+        "id": "6d72a549bcc87fb2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "书籍/高效学习法/复盘.md",
+            "file": "webgl/webgl高级编程：开发web3d图形/着色器Shader.md",
             "mode": "source",
             "source": false
           }
@@ -40,20 +40,29 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SOP",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "1a776d8de8e5f290",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 308
+    "width": 347,
+    "collapsed": true
   },
   "right": {
     "id": "f5c84d15ff6facc4",
@@ -69,34 +78,65 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "书籍/高效学习法/复盘.md",
+                "file": "webgl/webgl高级编程：开发web3d图形/着色器Shader.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "19a39910648e78f4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f70035faa6f84e16",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "webgl/webgl高级编程：开发web3d图形/着色器Shader.md"
+              }
+            }
+          },
+          {
+            "id": "ab8074b3a0e03ef6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 253.1999969482422,
+    "collapsed": true
   },
-  "active": "ff11997dbd61e6e6",
+  "active": "6d72a549bcc87fb2",
   "lastOpenFiles": [
-    "书籍/高效学习法/复盘.md",
-    "书籍/穿透式学习/实用工具05：将所学变成操作标准.md",
-    "书籍/穿透式学习/安迪·格鲁夫的学习方法.md",
-    "书籍/穿透式学习/实用工具02：用知识与实干对撞——点、线、面.md",
-    "书籍/穿透式学习/提问模板.md",
-    "书籍/穿透式学习/微型学习：一次次学习小循环.md",
-    "书籍/穿透式学习/实用工具01我是在假装学习吗.md",
-    "书籍/穿透式学习/英雄之旅与学习之旅.md",
-    "书籍/好心情练习手册/阿德勒“目的论”.md",
-    "书籍/好心情练习手册/用“没耐心”打败坏情绪.md"
+    "webgl/webgl高级编程：开发web3d图形/着色器Shader.md",
+    "webgl/webgl高级编程：开发web3d图形/webgl图形流水线.md",
+    "webgl/webgl高级编程：开发web3d图形/帧缓存.md",
+    "webgl/webgl高级编程：开发web3d图形/纹理存储器.md",
+    "未命名.md",
+    "拾人牙慧/我国主要矛盾.md",
+    "杂书杂文/穿透式学习/微型学习：一次次学习小循环.md",
+    "拾人牙慧/未命名 1.md",
+    "杂书杂文/如何管理10人以下小团队/全球通用的10人以下小团队管理法则.md",
+    "杂书杂文/穿透式学习/实用工具05：将所学变成操作标准.md"
   ]
 }

@@ -1,0 +1,59 @@
+对于 WebGL 程序员来说，最重要的是顶点着色器和片元着色器。
+
+[[webgl图形流水线#WebGL 图形流水线的总体结构图]]
+
+为了得到一个真实感的 3d 场景，仅仅绘制某些位置的对象是不够的，还需要考虑到灯光照射到这些对象时的效果。**确定灯光对不同材质效果的整个过程，即着色（shading）。**
+
+在 webGL 中，着色过程分为以下两个阶段：
+- 顶点着色器
+- 片元着色器
+
+### 顶点（vertex）着色器
+webgl 流水线的第一阶段是顶点（vertex）着色器（片元着色器是后阶段）
+
+![](https://lee-1255983702.cos.ap-guangzhou.myqcloud.com/1642581042933image.png)
+
+着色器通常会先对顶点进行转换，即乘以一个变换矩阵。把一个对象的全部顶点都乘以一个变换矩阵，作用相当于把每个对象放置在场景中的某个位置。
+
+顶点着色器的输入包括：
+- 顶点着色器的实际源代码。OpenGL ES 着色器语言（OpenGL ES Shading Language）
+- attribute 变量（属性变量）。用户自定义的变量。如顶点数据、顶点位置、顶点颜色等。
+- uniform 变量（恒值变量）。表示所有顶点都相同的数据。变换矩阵和光源位置都属于该变量。
+- gl_内置变量。最重要的变量，而且即使在顶点着色器完成处理后，它还保存着顶点的位置信息。
+
+![](https://lee-1255983702.cos.ap-guangzhou.myqcloud.com/1642581768567image.png)
+
+
+```C
+
+// 用户自定义变量，用来保存特定于每个顶点的数据。
+// 这些属性变量的实际值是由 webGL JavaScript API 传入的。
+// 第一个变量是 aVertexPos，它是一个由3个分量组成的向量，用来保存一个顶点的位置信息。
+// 第一个变量是 aVertexColor，它是一个由4个分量组成的向量，用来保存一个顶点的颜色信息。
+// （个人疑惑：所以这个变量名必须是写死的，固定的？）
+attribute vec3 aVertexPos;
+attribute vec4 aVertexColor;
+
+// 类型 mat4 代表一个 4x4 的矩阵。
+// 定义了两个类型为 mat4 的 uniform 变量。
+// 这里的两个 uniform 变量用来保存作用于每个顶点上的变换矩阵。
+// 这些属性变量的实际值也是由 webGL JavaScript API 传入的。
+// uniform 变量的数据对于所有顶点都是常量。（常量的意义是无法修改，但那又如何？）
+uniform mat4 uMVMatrix;
+uniform mat4 uPMatrix;
+
+// 声明 vColor 是一个 varying 变量。用来保存顶点着色器的输出颜色。
+// 顶点着色器用这个 varying 变量把数据传送给片元着色器。
+varying vec4 vColor;
+
+void main() {
+	// 读出顶点位置（即 aVertexPos 变量的值），然后乘以变换矩阵。实现顶点变换操作。
+	// 把结果写入到一个内置变量gl_position，它保存了顶点在顶点着色器中处理后的位置信息。
+	gl_position = uPMatrix * uMVMatrix * vec4(aVertexPos, 1.0);
+
+	// 读取由 webGL JavaScript API 传送来的属性值（aVertexColor）
+	// 并把这个值写入到 varying 变量（vColor）中，供后面的片元着色器使用。
+	vColor = aVertexColor;
+}
+```
+
