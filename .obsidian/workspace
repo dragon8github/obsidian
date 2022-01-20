@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "webgl/webgl高级编程：开发web3d图形/着色器Shader.md",
+            "file": "webgl/webgl高级编程：开发web3d图形/线性代数.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "绘制缓存",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347,
+    "width": 411,
     "collapsed": true
   },
   "right": {
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "webgl/webgl高级编程：开发web3d图形/着色器Shader.md",
+                "file": "webgl/webgl高级编程：开发web3d图形/线性代数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "webgl/webgl高级编程：开发web3d图形/着色器Shader.md"
+                "file": "webgl/webgl高级编程：开发web3d图形/线性代数.md"
               }
             }
           },
@@ -128,15 +128,15 @@
   },
   "active": "6d72a549bcc87fb2",
   "lastOpenFiles": [
-    "webgl/webgl高级编程：开发web3d图形/着色器Shader.md",
-    "webgl/webgl高级编程：开发web3d图形/webgl图形流水线.md",
+    "webgl/webgl高级编程：开发web3d图形/线性代数.md",
+    "webgl/webgl高级编程：开发web3d图形/webgl图形流水线与绘制缓存.md",
+    "webgl/webgl高级编程：开发web3d图形/逐片段操作.md",
     "webgl/webgl高级编程：开发web3d图形/帧缓存.md",
-    "webgl/webgl高级编程：开发web3d图形/纹理存储器.md",
-    "未命名.md",
-    "拾人牙慧/我国主要矛盾.md",
-    "杂书杂文/穿透式学习/微型学习：一次次学习小循环.md",
-    "拾人牙慧/未命名 1.md",
-    "杂书杂文/如何管理10人以下小团队/全球通用的10人以下小团队管理法则.md",
-    "杂书杂文/穿透式学习/实用工具05：将所学变成操作标准.md"
+    "webgl/webgl高级编程：开发web3d图形/图元装配.md",
+    "webgl/webgl高级编程：开发web3d图形/片段着色器.md",
+    "webgl/webgl高级编程：开发web3d图形/顶点着色器.md",
+    "webgl/webgl高级编程：开发web3d图形/光栅化.md",
+    "assets/Pasted image 20220119201457.png",
+    "assets/Pasted image 20220119200524.png"
   ]
 }
