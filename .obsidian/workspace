@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411,
+    "width": 300,
     "collapsed": true
   },
   "right": {
@@ -119,7 +119,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -129,6 +129,7 @@
   "active": "6d72a549bcc87fb2",
   "lastOpenFiles": [
     "webgl/webgl高级编程：开发web3d图形/线性代数.md",
+    "拾人牙慧/达摩克里斯之剑.md",
     "webgl/webgl高级编程：开发web3d图形/webgl图形流水线与绘制缓存.md",
     "webgl/webgl高级编程：开发web3d图形/逐片段操作.md",
     "webgl/webgl高级编程：开发web3d图形/帧缓存.md",
@@ -136,7 +137,6 @@
     "webgl/webgl高级编程：开发web3d图形/片段着色器.md",
     "webgl/webgl高级编程：开发web3d图形/顶点着色器.md",
     "webgl/webgl高级编程：开发web3d图形/光栅化.md",
-    "assets/Pasted image 20220119201457.png",
-    "assets/Pasted image 20220119200524.png"
+    "assets/Pasted image 20220119201457.png"
   ]
 }
