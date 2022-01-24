@@ -5,18 +5,47 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "英雄之旅",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "webgl",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "好心情",
+      "color": {
+        "a": 1,
+        "rgb": 11602629
+      }
+    },
+    {
+      "query": "思维模型",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    }
+  ],
   "collapse-display": true,
-  "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 2.34247058823529,
+  "lineSizeMultiplier": 5,
+  "collapse-forces": false,
+  "centerStrength": 0.295726495726496,
+  "repelStrength": 14.0449438202247,
   "linkStrength": 1,
-  "linkDistance": 250,
+  "linkDistance": 298,
   "scale": 1,
   "close": false
 }

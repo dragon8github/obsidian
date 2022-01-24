@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6d72a549bcc87fb2",
+        "id": "8fcc17e160b17bf6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "webgl/webgl高级编程：开发web3d图形/线性代数.md",
+            "file": "webgl/webgl高级编程：开发web3d图形/webgl开发套路.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f5c84d15ff6facc4",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "webgl/webgl高级编程：开发web3d图形/线性代数.md",
+                "file": "webgl/webgl高级编程：开发web3d图形/webgl开发套路.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "webgl/webgl高级编程：开发web3d图形/线性代数.md"
+                "file": "webgl/webgl高级编程：开发web3d图形/webgl开发套路.md"
               }
             }
           },
@@ -126,17 +125,17 @@
     "width": 253.1999969482422,
     "collapsed": true
   },
-  "active": "6d72a549bcc87fb2",
+  "active": "8fcc17e160b17bf6",
   "lastOpenFiles": [
+    "webgl/webgl高级编程：开发web3d图形/webgl开发套路.md",
     "webgl/webgl高级编程：开发web3d图形/线性代数.md",
-    "拾人牙慧/达摩克里斯之剑.md",
-    "webgl/webgl高级编程：开发web3d图形/webgl图形流水线与绘制缓存.md",
-    "webgl/webgl高级编程：开发web3d图形/逐片段操作.md",
-    "webgl/webgl高级编程：开发web3d图形/帧缓存.md",
-    "webgl/webgl高级编程：开发web3d图形/图元装配.md",
-    "webgl/webgl高级编程：开发web3d图形/片段着色器.md",
-    "webgl/webgl高级编程：开发web3d图形/顶点着色器.md",
-    "webgl/webgl高级编程：开发web3d图形/光栅化.md",
-    "assets/Pasted image 20220119201457.png"
+    "杂书杂文/穿透式学习/英雄之旅与学习之旅.md",
+    "杂书杂文/穿透式学习/复盘.md",
+    "杂书杂文/高效学习法/未命名.md",
+    "杂书杂文/煤气灯效应/什么是“煤气灯操纵”？.md",
+    "杂书杂文/如何管理10人以下小团队/全球通用的10人以下小团队管理法则.md",
+    "杂书杂文/思维模型/做出可逆的决策.md",
+    "杂书杂文/思维模型/寻求“满意度”.md",
+    "杂书杂文/思维模型/思维模型.md"
   ]
 }
