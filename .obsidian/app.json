@@ -2,5 +2,11 @@
   "promptDelete": false,
   "legacyEditor": false,
   "alwaysUpdateLinks": true,
-  "communityPluginSortOrder": "download"
+  "communityPluginSortOrder": "download",
+  "strictLineBreaks": false,
+  "readableLineLength": false,
+  "foldHeading": true,
+  "foldIndent": false,
+  "showLineNumber": true,
+  "rightToLeft": false
 }
