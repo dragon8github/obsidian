@@ -1,8 +1,7 @@
 {
-  "promptDelete": false,
   "legacyEditor": false,
-  "alwaysUpdateLinks": true,
-  "communityPluginSortOrder": "download",
+  "livePreview": true,
   "readableLineLength": false,
+  "foldIndent": true,
   "showLineNumber": true
 }

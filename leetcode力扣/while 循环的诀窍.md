@@ -7,3 +7,17 @@ while 循环有两种思考模式和两个注意点。
 思考模式1 (when)：（温和派）只要符合条件你就去执行。 
 
 思考模式2（until）：（强硬派）不达目的不罢休，直到满足条件为止，但需要对这个条件取反。
+
+---
+
+```javascript
+// 不溢出数组的判断，其实就和平时我们的 for 判断一样。
+while(j < nums.length) {
+	if (nums[j] != 0) {
+		[nums[i], nums[j]] = [nums[j], nums[i]]
+		// while 也可以用 break 中断
+		break
+	}
+	j++
+}
+```

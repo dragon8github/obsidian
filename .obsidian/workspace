@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "cff771f8a9cd00f6",
+    "id": "c464a0e6ee189fb7",
     "type": "split",
     "children": [
       {
-        "id": "b54233152c90f2e5",
+        "id": "43bf7feff8b28085",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "leetcode力扣/56、合并区间.md",
+            "file": "leetcode力扣/283. 移动零.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0723fd5a7dd38379",
+    "id": "35aab1cd87c803b0",
     "type": "split",
     "children": [
       {
-        "id": "2a605213869a730d",
+        "id": "308f6b5cc921d2ef",
         "type": "tabs",
         "children": [
           {
-            "id": "db64fa25257ad06a",
+            "id": "6c68095b332ac3f7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,26 +35,18 @@
             }
           },
           {
-            "id": "424368b56fdabb08",
+            "id": "2c409752d3f907ef",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "拉",
+                "query": "拉过来",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "1a776d8de8e5f290",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
             }
           }
         ]
@@ -64,78 +56,48 @@
     "width": 300
   },
   "right": {
-    "id": "f5c84d15ff6facc4",
+    "id": "147db9c897a05807",
     "type": "split",
     "children": [
       {
-        "id": "563ab771bee4eb3b",
+        "id": "417fa56a2fd59b2a",
         "type": "tabs",
         "children": [
           {
-            "id": "1683a0a6f0574e43",
+            "id": "5a45869f41d5deaf",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "leetcode力扣/56、合并区间.md",
+                "file": "leetcode力扣/283. 移动零.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "19a39910648e78f4",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "f70035faa6f84e16",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "leetcode力扣/56、合并区间.md"
-              }
-            }
-          },
-          {
-            "id": "ab8074b3a0e03ef6",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 253.1999969482422,
+    "width": 300,
     "collapsed": true
   },
-  "active": "b54233152c90f2e5",
+  "active": "43bf7feff8b28085",
   "lastOpenFiles": [
-    "leetcode力扣/56、合并区间.md",
-    "leetcode力扣/121、 买卖股票的最佳时机.md",
-    "leetcode力扣/15. 三数之和.md",
-    "leetcode力扣/可回溯递归.md",
+    "leetcode力扣/283. 移动零.md",
+    "leetcode力扣/47. 全排列 II.md",
     "leetcode力扣/46. 全排列.md",
-    "leetcode力扣/1. 两数之和.md",
+    "leetcode力扣/77. 组合.md",
+    "leetcode力扣/可回溯递归.md",
+    "leetcode力扣/15. 三数之和.md",
+    "leetcode力扣/while 循环的诀窍.md",
     "leetcode力扣/704. 二分查找.md",
-    "leetcode力扣/3、 无重复字符的最长子串.md",
-    "leetcode力扣/73、矩阵置零.md",
-    "leetcode力扣/733、图像渲染.md"
+    "leetcode力扣/198、打家劫舍.md",
+    "leetcode力扣/leetcode力扣.md"
   ]
 }
