@@ -3,5 +3,6 @@
   "livePreview": true,
   "readableLineLength": false,
   "foldIndent": true,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "promptDelete": false
 }
