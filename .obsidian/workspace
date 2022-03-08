@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "c464a0e6ee189fb7",
+    "id": "cff771f8a9cd00f6",
     "type": "split",
     "children": [
       {
-        "id": "43bf7feff8b28085",
+        "id": "8392538995244ddd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "leetcode力扣/283. 移动零.md",
+            "file": "leetcode力扣/419、甲板上的战舰.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "35aab1cd87c803b0",
+    "id": "0723fd5a7dd38379",
     "type": "split",
     "children": [
       {
-        "id": "308f6b5cc921d2ef",
+        "id": "2a605213869a730d",
         "type": "tabs",
         "children": [
           {
-            "id": "6c68095b332ac3f7",
+            "id": "db64fa25257ad06a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,18 +35,26 @@
             }
           },
           {
-            "id": "2c409752d3f907ef",
+            "id": "424368b56fdabb08",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "拉过来",
-                "matchingCase": false,
+                "query": "26",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "1a776d8de8e5f290",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
             }
           }
         ]
@@ -56,48 +64,78 @@
     "width": 300
   },
   "right": {
-    "id": "147db9c897a05807",
+    "id": "f5c84d15ff6facc4",
     "type": "split",
     "children": [
       {
-        "id": "417fa56a2fd59b2a",
+        "id": "563ab771bee4eb3b",
         "type": "tabs",
         "children": [
           {
-            "id": "5a45869f41d5deaf",
+            "id": "1683a0a6f0574e43",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "leetcode力扣/283. 移动零.md",
+                "file": "leetcode力扣/419、甲板上的战舰.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "19a39910648e78f4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f70035faa6f84e16",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "leetcode力扣/5、最长回文.md"
+              }
+            }
+          },
+          {
+            "id": "ab8074b3a0e03ef6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 253.1999969482422,
     "collapsed": true
   },
-  "active": "43bf7feff8b28085",
+  "active": "8392538995244ddd",
   "lastOpenFiles": [
-    "leetcode力扣/283. 移动零.md",
-    "leetcode力扣/47. 全排列 II.md",
-    "leetcode力扣/46. 全排列.md",
-    "leetcode力扣/77. 组合.md",
-    "leetcode力扣/可回溯递归.md",
-    "leetcode力扣/15. 三数之和.md",
+    "leetcode力扣/419、甲板上的战舰.md",
+    "leetcode力扣/200、岛屿数量.md",
     "leetcode力扣/while 循环的诀窍.md",
-    "leetcode力扣/704. 二分查找.md",
-    "leetcode力扣/198、打家劫舍.md",
-    "leetcode力扣/leetcode力扣.md"
+    "leetcode力扣/leetcode力扣.md",
+    "leetcode力扣/796、旋转字符串.md",
+    "leetcode力扣/318. 最大单词长度乘积.md",
+    "leetcode力扣/283. 移动零.md",
+    "leetcode力扣/242. 有效的字母异位词.md",
+    "leetcode力扣/53. 最大子数组和.md",
+    "leetcode力扣/30. 串联所有单词的子串.md"
   ]
 }
